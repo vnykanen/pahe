@@ -8,9 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  villes-posts:
-    title: Ville's Posts
-    output: true
 defaults:
 - scope:
     path: ''
