@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pahe Group",
+    "description": "",
+    "home_page_url": "https://vnykanen.github.io/pahe",
+    "feed_url": "https://vnykanen.github.io/pahe/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kuha-Eemeli"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vnykanen.github.io/pahe/sitemap.xml
