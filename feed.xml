@@ -3,10 +3,30 @@
     <title>Pahe Group</title>
     <link href="https://vnykanen.github.io/pahe/feed.xml" rel="self" />
     <link href="https://vnykanen.github.io/pahe" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2025-02-03T16:10:24+02:00</updated>
     <author>
         <name>Kuha-Eemeli</name>
     </author>
     <id>https://vnykanen.github.io/pahe</id>
 
+    <entry>
+        <title>Pahe Group aloittaa nettisivun</title>
+        <author>
+            <name>Kuha-Eemeli</name>
+        </author>
+        <link href="https://vnykanen.github.io/pahe/pahe-group-aloittaa-nettisivun/"/>
+        <id>https://vnykanen.github.io/pahe/pahe-group-aloittaa-nettisivun/</id>
+
+        <updated>2025-02-03T16:10:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennus on varattu parin viikon päähän.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennus on varattu parin viikon päähän.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
