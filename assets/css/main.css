@@ -188,9 +188,9 @@ strong {
 }
 
 blockquote {
-  border-top: 2px solid var(--dark);
-  border-bottom: 2px solid var(--dark);
-  color: var(--headings-color);
+  border-top: 1px solid #586194;
+  border-bottom: 4px solid #586194;
+  color: #59a3a1;
   font-family: var(--heading-font);
   font-style: italic;
   font-variation-settings: "wght" var(--font-weight-bold);
