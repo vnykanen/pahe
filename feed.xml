@@ -3,12 +3,37 @@
     <title>Pahe Group</title>
     <link href="https://vnykanen.github.io/pahe/feed.xml" rel="self" />
     <link href="https://vnykanen.github.io/pahe" />
-    <updated>2025-02-03T16:10:24+02:00</updated>
+    <updated>2025-02-03T17:17:02+02:00</updated>
     <author>
         <name>Kuha-Eemeli</name>
     </author>
     <id>https://vnykanen.github.io/pahe</id>
 
+    <entry>
+        <title>Kesällä hörhöillään Iitissä!</title>
+        <author>
+            <name>Kuha-Eemeli</name>
+        </author>
+        <link href="https://vnykanen.github.io/pahe/kesaellae-hoerhoeillaeaen-iitissae/"/>
+        <id>https://vnykanen.github.io/pahe/kesaellae-hoerhoeillaeaen-iitissae/</id>
+
+        <updated>2025-02-03T17:17:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Jos olet seurannut Pahe Groupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus huokorakentaa ehkäpä parikin projektia. Näitä varmaan sitten markkinoidaan hauskojen videoiden muodossa taas somessa, ja miksipä ei. Pulipuli!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Jos olet seurannut Pahe Groupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus <a href="https://vnykanen.github.io/pahe/huoko-build/" title="No mut mikä se " huokorakennus="" on="">huokorakentaa</a> ehkäpä parikin projektia.</p>
+<ol>
+<li>Terassi mökin eteen toukokuussa, jos Luoja suo!</li>
+<li>Pizza &amp; Cacca -rakennus kärkeen</li>
+</ol>
+<p>Näitä varmaan sitten markkinoidaan hauskojen videoiden muodossa taas somessa, ja miksipä ei. Pulipuli!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pahe Group aloittaa nettisivun</title>
         <author>
@@ -20,12 +45,12 @@
         <updated>2025-02-03T16:10:24+02:00</updated>
             <summary>
                 <![CDATA[
-                    Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennus on varattu parin viikon päähän.
+                    Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennus on varattu parin viikon päähän.</p>
+                <p>Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.</p>
             ]]>
         </content>
     </entry>

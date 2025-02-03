@@ -11,18 +11,32 @@
     },
     "items": [
         {
+            "id": "https://vnykanen.github.io/pahe/kesaellae-hoerhoeillaeaen-iitissae/",
+            "url": "https://vnykanen.github.io/pahe/kesaellae-hoerhoeillaeaen-iitissae/",
+            "title": "Kesällä hörhöillään Iitissä!",
+            "summary": "Jos olet seurannut Pahe Groupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus huokorakentaa ehkäpä parikin projektia. Näitä varmaan sitten markkinoidaan hauskojen videoiden muodossa taas somessa, ja miksipä ei. Pulipuli!",
+            "content_html": "<p>Jos olet seurannut Pahe Groupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus <a href=\"https://vnykanen.github.io/pahe/huoko-build/\" title=\"No mut mikä se \" huokorakennus=\"\" on=\"\">huokorakentaa</a> ehkäpä parikin projektia.</p>\n<ol>\n<li>Terassi mökin eteen toukokuussa, jos Luoja suo!</li>\n<li>Pizza &amp; Cacca -rakennus kärkeen</li>\n</ol>\n<p>Näitä varmaan sitten markkinoidaan hauskojen videoiden muodossa taas somessa, ja miksipä ei. Pulipuli!</p>",
+            "author": {
+                "name": "Kuha-Eemeli"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-03T17:17:02+02:00",
+            "date_modified": "2025-02-03T17:17:02+02:00"
+        },
+        {
             "id": "https://vnykanen.github.io/pahe/pahe-group-aloittaa-nettisivun/",
             "url": "https://vnykanen.github.io/pahe/pahe-group-aloittaa-nettisivun/",
             "title": "Pahe Group aloittaa nettisivun",
-            "summary": "Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennus on varattu parin viikon päähän.",
-            "content_html": "<p>Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennus on varattu parin viikon päähän.</p>",
+            "summary": "Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.",
+            "content_html": "<p>Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.</p>",
             "author": {
                 "name": "Kuha-Eemeli"
             },
             "tags": [
             ],
             "date_published": "2025-02-03T16:10:24+02:00",
-            "date_modified": "2025-02-03T16:10:24+02:00"
+            "date_modified": "2025-02-03T17:13:33+02:00"
         }
     ]
 }
