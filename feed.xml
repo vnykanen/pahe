@@ -3,7 +3,7 @@
     <title>Pahe Group</title>
     <link href="https://vnykanen.github.io/pahe/feed.xml" rel="self" />
     <link href="https://vnykanen.github.io/pahe" />
-    <updated>2025-02-03T17:53:21+02:00</updated>
+    <updated>2025-02-03T17:59:43+02:00</updated>
     <author>
         <name>Kuha-Eemeli</name>
     </author>
@@ -45,15 +45,18 @@
         </author>
         <link href="https://vnykanen.github.io/pahe/pahe-group-aloittaa-nettisivun/"/>
         <id>https://vnykanen.github.io/pahe/pahe-group-aloittaa-nettisivun/</id>
+        <media:content url="https://vnykanen.github.io/pahe/media/posts/2/artsu01.jpg" medium="image" />
 
         <updated>2025-02-03T16:10:24+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://vnykanen.github.io/pahe/media/posts/2/artsu01.jpg" alt="Harrasteprojektit pöydällä" />
                     Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://vnykanen.github.io/pahe/media/posts/2/artsu01.jpg" class="type:primaryImage" alt="Harrasteprojektit pöydällä" /></p>
                 <p>Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Group rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.</p>
             ]]>
         </content>
