@@ -3,7 +3,7 @@
     <title>Pahe Group</title>
     <link href="https://vnykanen.github.io/pahe/feed.xml" rel="self" />
     <link href="https://vnykanen.github.io/pahe" />
-    <updated>2025-02-05T14:37:04+02:00</updated>
+    <updated>2025-03-01T14:04:00+02:00</updated>
     <author>
         <name>Kuha-Eemeli</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://vnykanen.github.io/pahe/nettisivuviikonloppu-agenda/"/>
         <id>https://vnykanen.github.io/pahe/nettisivuviikonloppu-agenda/</id>
+            <category term="Video"/>
 
         <updated>2025-02-05T14:32:45+02:00</updated>
             <summary>
@@ -46,6 +47,7 @@
         <link href="https://vnykanen.github.io/pahe/kesaellae-hoerhoeillaeaen-iitissae/"/>
         <id>https://vnykanen.github.io/pahe/kesaellae-hoerhoeillaeaen-iitissae/</id>
         <media:content url="https://vnykanen.github.io/pahe/media/posts/3/katri01.jpg" medium="image" />
+            <category term="Video"/>
 
         <updated>2025-02-03T17:17:02+02:00</updated>
             <summary>
