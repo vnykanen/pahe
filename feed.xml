@@ -21,7 +21,7 @@
         <updated>2025-02-05T14:32:45+02:00</updated>
             <summary>
                 <![CDATA[
-                    Kuten varmasti tiedät, Muumipeikko, nettisivuviikonloppu on tulossa. Tällöin Kuha-Eemeli ja Hirvi-Inkeri pistävät ideahatut päähän ja muokkaavat internet-presenssinsä vision jonkinlaiseksi suunnitelmaksi, josta päästään eteenpäin. Teknisesti tavoitteena on päästä tilaan, jossa molempien koneilla on ohjelmisto ja molemmat voivat tuottaa sisältöä. Ville esittelee CMS:n (content management system). Mikä&hellip;
+                    Kuten varmasti tiedät, Muumipeikko, nettisivuviikonloppu on tulossa. Tällöin Kuha-Eemeli ja Hirvi-Inkeri pistävät ideahatut päähän ja muokkaavat internet-presenssinsä vision jonkinlaiseksi suunnitelmaksi,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -53,13 +53,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://vnykanen.github.io/pahe/media/posts/3/katri01.jpg" alt="Kokko, a big fire!" />
-                    Jos olet seurannut Pahe Grupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus huokorakentaa ehkäpä parikin projektia. Näitä varmaan sitten markkinoidaan hauskojen videoiden muodossa taas somessa, ja miksipä ei. Pulipuli!
+                    Jos olet seurannut Pahe Grupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus huokorakentaa ehkäpä&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://vnykanen.github.io/pahe/media/posts/3/katri01.jpg" class="type:primaryImage" alt="Kokko, a big fire!" /></p>
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://vnykanen.github.io/pahe/media/posts/3/topi02.jpg" alt="Topi the Dog" width="360" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-xs.jpg 640w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-sm.jpg 768w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-md.jpg 1024w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-lg.jpg 1366w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-xl.jpg 1600w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-2xl.jpg 1920w"></figure>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://vnykanen.github.io/pahe/media/posts/3/topi02.jpg" alt="Topi the Dog" width="360" height="640" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-xs.jpg 300w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-sm.jpg 480w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-md.jpg 768w"></figure>
 <p>Jos olet seurannut Pahe Grupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus <a href="," title="Sillee iisisti...">huokorakentaa</a> ehkäpä parikin projektia.</p>
 <ol>
 <li>Terassi mökin eteen toukokuussa, jos Luoja suo!</li>
