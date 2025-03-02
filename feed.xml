@@ -1,12 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Pahe Grup Fin</title>
+    <title>Pahe Grup</title>
     <link href="https://vnykanen.github.io/pahe/feed.xml" rel="self" />
     <link href="https://vnykanen.github.io/pahe" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2025-03-01T14:04:00+02:00</updated>
     <author>
         <name>Kuha-Eemeli</name>
     </author>
     <id>https://vnykanen.github.io/pahe</id>
 
+    <entry>
+        <title>Nettisivuviikonloppu agenda</title>
+        <author>
+            <name>Kuha-Eemeli</name>
+        </author>
+        <link href="https://vnykanen.github.io/pahe/nettisivuviikonloppu-agenda/"/>
+        <id>https://vnykanen.github.io/pahe/nettisivuviikonloppu-agenda/</id>
+            <category term="Video"/>
+
+        <updated>2025-02-05T14:32:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Kuten varmasti tiedät, Muumipeikko, nettisivuviikonloppu on tulossa. Tällöin Kuha-Eemeli ja Hirvi-Inkeri pistävät ideahatut päähän ja muokkaavat internet-presenssinsä vision jonkinlaiseksi suunnitelmaksi, josta päästään eteenpäin. Teknisesti tavoitteena on päästä tilaan, jossa molempien koneilla on ohjelmisto ja molemmat voivat tuottaa sisältöä. Ville esittelee CMS:n (content management system). Mikä&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Kuten varmasti tiedät, Muumipeikko, nettisivuviikonloppu on tulossa. Tällöin Kuha-Eemeli ja Hirvi-Inkeri pistävät ideahatut päähän ja muokkaavat internet-presenssinsä vision jonkinlaiseksi suunnitelmaksi, josta päästään eteenpäin. Teknisesti tavoitteena on päästä tilaan, jossa molempien koneilla on ohjelmisto ja molemmat voivat tuottaa sisältöä.</p><ol>
+<li>Ville esittelee CMS:n (content management system). Mikä se on, millaisia rajoja siinä on.</li>
+<li>Keskustelu, onko tämä riittävä järjestelmä. Onko parempia vaihtoehtoja. Kelpaako “for now”?</li>
+<li>Kielikysymys: Englanti / Suomi, vaikuttaa sivun rakenteeseen liittyviin ratkaisuihin.</li>
+<li>CMS:n asennus Katrin läppärille</li>
+<li>Testaus ja protokolla: Miten estetään yhtäaikainen käyttö, joka johtaisi ongelmiin.</li>
+<li>Sivuston sisällön pallottelu</li>
+<li>Lyhyen ja pitkän aikavälin prioriteettien pohdinta</li>
+</ol>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kesällä hörhöillään Iitissä!</title>
+        <author>
+            <name>Kuha-Eemeli</name>
+        </author>
+        <link href="https://vnykanen.github.io/pahe/kesaellae-hoerhoeillaeaen-iitissae/"/>
+        <id>https://vnykanen.github.io/pahe/kesaellae-hoerhoeillaeaen-iitissae/</id>
+        <media:content url="https://vnykanen.github.io/pahe/media/posts/3/katri01.jpg" medium="image" />
+            <category term="Video"/>
+
+        <updated>2025-02-03T17:17:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://vnykanen.github.io/pahe/media/posts/3/katri01.jpg" alt="Kokko, a big fire!" />
+                    Jos olet seurannut Pahe Grupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus huokorakentaa ehkäpä parikin projektia. Näitä varmaan sitten markkinoidaan hauskojen videoiden muodossa taas somessa, ja miksipä ei. Pulipuli!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vnykanen.github.io/pahe/media/posts/3/katri01.jpg" class="type:primaryImage" alt="Kokko, a big fire!" /></p>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://vnykanen.github.io/pahe/media/posts/3/topi02.jpg" alt="Topi the Dog" width="360" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-xs.jpg 640w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-sm.jpg 768w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-md.jpg 1024w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-lg.jpg 1366w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-xl.jpg 1600w ,https://vnykanen.github.io/pahe/media/posts/3/responsive/topi02-2xl.jpg 1920w"></figure>
+<p>Jos olet seurannut Pahe Grupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus <a href="," title="Sillee iisisti...">huokorakentaa</a> ehkäpä parikin projektia.</p>
+<ol>
+<li>Terassi mökin eteen toukokuussa, jos Luoja suo!</li>
+<li>Pizza &amp; Cacca -rakennus kärkeen</li>
+</ol>
+<p>Näitä varmaan sitten markkinoidaan hauskojen videoiden muodossa taas somessa, ja miksipä ei. Pulipuli!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pahe Grup aloittaa nettisivun</title>
+        <author>
+            <name>Kuha-Eemeli</name>
+        </author>
+        <link href="https://vnykanen.github.io/pahe/pahe-group-aloittaa-nettisivun/"/>
+        <id>https://vnykanen.github.io/pahe/pahe-group-aloittaa-nettisivun/</id>
+        <media:content url="https://vnykanen.github.io/pahe/media/posts/2/artsu01.jpg" medium="image" />
+
+        <updated>2025-02-03T16:10:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://vnykanen.github.io/pahe/media/posts/2/artsu01.jpg" alt="Harrasteprojektit pöydällä" />
+                    Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Grup rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vnykanen.github.io/pahe/media/posts/2/artsu01.jpg" class="type:primaryImage" alt="Harrasteprojektit pöydällä" /></p>
+                <p>Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Grup rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
