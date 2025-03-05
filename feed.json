@@ -14,8 +14,8 @@
             "id": "https://vnykanen.github.io/pahe/nettisivuviikonloppu-agenda/",
             "url": "https://vnykanen.github.io/pahe/nettisivuviikonloppu-agenda/",
             "title": "Nettisivuviikonloppu agenda",
-            "summary": "Kuten varmasti tiedät, Muumipeikko, nettisivuviikonloppu on tulossa. Tällöin Kuha-Eemeli ja Hirvi-Inkeri pistävät ideahatut päähän ja muokkaavat internet-presenssinsä vision jonkinlaiseksi suunnitelmaksi, josta päästään eteenpäin. Teknisesti tavoitteena on päästä tilaan, jossa molempien koneilla on ohjelmisto ja molemmat voivat tuottaa sisältöä. Ville esittelee CMS:n (content management system). Mikä&hellip;",
-            "content_html": "<p>Kuten varmasti tiedät, Muumipeikko, nettisivuviikonloppu on tulossa. Tällöin Kuha-Eemeli ja Hirvi-Inkeri pistävät ideahatut päähän ja muokkaavat internet-presenssinsä vision jonkinlaiseksi suunnitelmaksi, josta päästään eteenpäin. Teknisesti tavoitteena on päästä tilaan, jossa molempien koneilla on ohjelmisto ja molemmat voivat tuottaa sisältöä.</p><ol>\n<li>Ville esittelee CMS:n (content management system). Mikä se on, millaisia rajoja siinä on.</li>\n<li>Keskustelu, onko tämä riittävä järjestelmä. Onko parempia vaihtoehtoja. Kelpaako “for now”?</li>\n<li>Kielikysymys: Englanti / Suomi, vaikuttaa sivun rakenteeseen liittyviin ratkaisuihin.</li>\n<li>CMS:n asennus Katrin läppärille</li>\n<li>Testaus ja protokolla: Miten estetään yhtäaikainen käyttö, joka johtaisi ongelmiin.</li>\n<li>Sivuston sisällön pallottelu</li>\n<li>Lyhyen ja pitkän aikavälin prioriteettien pohdinta</li>\n</ol>\n",
+            "summary": "Nettisivuviikonloppu on päättynyt. Ville esittelee CMS:n (content management system). Mikä se on, millaisia rajoja siinä on. Keskustelu, onko tämä riittävä järjestelmä. Onko parempia vaihtoehtoja. Kelpaako “for now”? Kielikysymys: Englanti / Suomi, vaikuttaa sivun rakenteeseen liittyviin ratkaisuihin. CMS:n asennus Katrin läppärille Testaus ja protokolla: Miten estetään&hellip;",
+            "content_html": "<p>Nettisivuviikonloppu on päättynyt.</p><ol>\n<li>Ville esittelee CMS:n (content management system). Mikä se on, millaisia rajoja siinä on.</li>\n<li>Keskustelu, onko tämä riittävä järjestelmä. Onko parempia vaihtoehtoja. Kelpaako “for now”?</li>\n<li>Kielikysymys: Englanti / Suomi, vaikuttaa sivun rakenteeseen liittyviin ratkaisuihin.</li>\n<li>CMS:n asennus Katrin läppärille</li>\n<li>Testaus ja protokolla: Miten estetään yhtäaikainen käyttö, joka johtaisi ongelmiin.</li>\n<li>Sivuston sisällön pallottelu</li>\n<li>Lyhyen ja pitkän aikavälin prioriteettien pohdinta</li>\n</ol>\n",
             "author": {
                 "name": "Kuha-Eemeli"
             },
@@ -23,7 +23,7 @@
                    "Video"
             ],
             "date_published": "2025-02-05T14:32:45+02:00",
-            "date_modified": "2025-03-05T20:07:46+02:00"
+            "date_modified": "2025-03-05T20:11:04+02:00"
         },
         {
             "id": "https://vnykanen.github.io/pahe/kesaellae-hoerhoeillaeaen-iitissae/",

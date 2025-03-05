@@ -3,7 +3,7 @@
     <title>Pahe Grup</title>
     <link href="https://vnykanen.github.io/pahe/feed.xml" rel="self" />
     <link href="https://vnykanen.github.io/pahe" />
-    <updated>2025-03-05T20:07:46+02:00</updated>
+    <updated>2025-03-05T20:11:04+02:00</updated>
     <author>
         <name>Kuha-Eemeli</name>
     </author>
@@ -21,12 +21,12 @@
         <updated>2025-02-05T14:32:45+02:00</updated>
             <summary>
                 <![CDATA[
-                    Kuten varmasti tiedät, Muumipeikko, nettisivuviikonloppu on tulossa. Tällöin Kuha-Eemeli ja Hirvi-Inkeri pistävät ideahatut päähän ja muokkaavat internet-presenssinsä vision jonkinlaiseksi suunnitelmaksi, josta päästään eteenpäin. Teknisesti tavoitteena on päästä tilaan, jossa molempien koneilla on ohjelmisto ja molemmat voivat tuottaa sisältöä. Ville esittelee CMS:n (content management system). Mikä&hellip;
+                    Nettisivuviikonloppu on päättynyt. Ville esittelee CMS:n (content management system). Mikä se on, millaisia rajoja siinä on. Keskustelu, onko tämä riittävä järjestelmä. Onko parempia vaihtoehtoja. Kelpaako “for now”? Kielikysymys: Englanti / Suomi, vaikuttaa sivun rakenteeseen liittyviin ratkaisuihin. CMS:n asennus Katrin läppärille Testaus ja protokolla: Miten estetään&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Kuten varmasti tiedät, Muumipeikko, nettisivuviikonloppu on tulossa. Tällöin Kuha-Eemeli ja Hirvi-Inkeri pistävät ideahatut päähän ja muokkaavat internet-presenssinsä vision jonkinlaiseksi suunnitelmaksi, josta päästään eteenpäin. Teknisesti tavoitteena on päästä tilaan, jossa molempien koneilla on ohjelmisto ja molemmat voivat tuottaa sisältöä.</p><ol>
+                <p>Nettisivuviikonloppu on päättynyt.</p><ol>
 <li>Ville esittelee CMS:n (content management system). Mikä se on, millaisia rajoja siinä on.</li>
 <li>Keskustelu, onko tämä riittävä järjestelmä. Onko parempia vaihtoehtoja. Kelpaako “for now”?</li>
 <li>Kielikysymys: Englanti / Suomi, vaikuttaa sivun rakenteeseen liittyviin ratkaisuihin.</li>
