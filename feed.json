@@ -11,50 +11,20 @@
     },
     "items": [
         {
-            "id": "https://pahegrup.fi/nettisivuviikonloppu-agenda/",
-            "url": "https://pahegrup.fi/nettisivuviikonloppu-agenda/",
-            "title": "Nettisivuviikonloppu agenda",
-            "summary": "Nettisivuviikonloppu on päättynyt. Ville esittelee CMS:n (content management system). Mikä se on, millaisia rajoja siinä on. Keskustelu, onko tämä riittävä järjestelmä. Onko parempia vaihtoehtoja. Kelpaako “for now”? Kielikysymys: Englanti / Suomi, vaikuttaa sivun rakenteeseen liittyviin ratkaisuihin. CMS:n asennus Katrin läppärille Testaus ja protokolla: Miten estetään&hellip;",
-            "content_html": "<p>Nettisivuviikonloppu on päättynyt.</p><ol>\n<li>Ville esittelee CMS:n (content management system). Mikä se on, millaisia rajoja siinä on.</li>\n<li>Keskustelu, onko tämä riittävä järjestelmä. Onko parempia vaihtoehtoja. Kelpaako “for now”?</li>\n<li>Kielikysymys: Englanti / Suomi, vaikuttaa sivun rakenteeseen liittyviin ratkaisuihin.</li>\n<li>CMS:n asennus Katrin läppärille</li>\n<li>Testaus ja protokolla: Miten estetään yhtäaikainen käyttö, joka johtaisi ongelmiin.</li>\n<li>Sivuston sisällön pallottelu</li>\n<li>Lyhyen ja pitkän aikavälin prioriteettien pohdinta</li>\n</ol>\n",
+            "id": "https://pahegrup.fi/pahe-grup-alkoi-tubettamaan/",
+            "url": "https://pahegrup.fi/pahe-grup-alkoi-tubettamaan/",
+            "title": "Pahe Grup alkoi tubettamaan",
+            "summary": "Pahe Grup tiedottaa! Olemme aloittaneet YouTube-kanavan. Katso ensimmäinen video, ja tiedät miten teltta-alusta syntyi metsään viime kesänä! Tilaa kanava, niin tulevaisuudessa näet mm. Nuotioleivän paistamista. Pajujen letittämistä. Meditaatiopolun mülläystä. Hirvennahan&hellip;",
+            "content_html": "<p>Pahe Grup tiedottaa! Olemme aloittaneet YouTube-kanavan. Katso ensimmäinen video, ja tiedät miten teltta-alusta syntyi metsään viime kesänä!</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/I9L8mzjXpX8\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>Tilaa kanava, niin tulevaisuudessa näet mm.</p>\n<ul>\n<li>Nuotioleivän paistamista.</li>\n<li>Pajujen letittämistä.</li>\n<li>Meditaatiopolun mülläystä.</li>\n<li>Hirvennahan käsittelyä.</li>\n<li>Avantoja.</li>\n<li>Rakentamista.</li>\n<li>Taidetta.</li>\n<li>Metsää ja järveä.</li>\n</ul>",
+            "image": "https://pahegrup.fi/media/posts/15/pahe-square-tube1.jpg",
             "author": {
                 "name": "Kuha-Eemeli"
             },
             "tags": [
-                   "Video"
+                   "Videot"
             ],
-            "date_published": "2025-02-05T14:32:45+02:00",
-            "date_modified": "2025-03-05T20:11:04+02:00"
-        },
-        {
-            "id": "https://pahegrup.fi/kesaellae-hoerhoeillaeaen-iitissae/",
-            "url": "https://pahegrup.fi/kesaellae-hoerhoeillaeaen-iitissae/",
-            "title": "Kesällä hörhöillään Iitissä!",
-            "summary": "Jos olet seurannut Pahe Grupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus huokorakentaa ehkäpä parikin projektia. Näitä varmaan sitten markkinoidaan hauskojen videoiden muodossa taas somessa, ja miksipä ei. Pulipuli!",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pahegrup.fi/media/posts/3/topi02.jpg\" alt=\"Topi the Dog\" width=\"360\" height=\"640\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://pahegrup.fi/media/posts/3/responsive/topi02-xs.jpg 640w ,https://pahegrup.fi/media/posts/3/responsive/topi02-sm.jpg 768w ,https://pahegrup.fi/media/posts/3/responsive/topi02-md.jpg 1024w ,https://pahegrup.fi/media/posts/3/responsive/topi02-lg.jpg 1366w ,https://pahegrup.fi/media/posts/3/responsive/topi02-xl.jpg 1600w ,https://pahegrup.fi/media/posts/3/responsive/topi02-2xl.jpg 1920w\"></figure>\n<p>Jos olet seurannut Pahe Grupin instaa (ei ole vielä olemassa), tiedätkin jo että ensi kesänä on taas tarkoitus <a href=\",\" title=\"Sillee iisisti...\">huokorakentaa</a> ehkäpä parikin projektia.</p>\n<ol>\n<li>Terassi mökin eteen toukokuussa, jos Luoja suo!</li>\n<li>Pizza &amp; Cacca -rakennus kärkeen</li>\n</ol>\n<p>Näitä varmaan sitten markkinoidaan hauskojen videoiden muodossa taas somessa, ja miksipä ei. Pulipuli!</p>",
-            "image": "https://pahegrup.fi/media/posts/3/katri01.jpg",
-            "author": {
-                "name": "Kuha-Eemeli"
-            },
-            "tags": [
-                   "Video"
-            ],
-            "date_published": "2025-02-03T17:17:02+02:00",
-            "date_modified": "2025-03-05T20:00:29+02:00"
-        },
-        {
-            "id": "https://pahegrup.fi/pahe-group-aloittaa-nettisivun/",
-            "url": "https://pahegrup.fi/pahe-group-aloittaa-nettisivun/",
-            "title": "Pahe Grup aloittaa nettisivun",
-            "summary": "Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Grup rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.",
-            "content_html": "<p>Tiedoksi heille joita koskee (Announcement for those who are hurting): Pahe Grup rakentaa nettisivua. Rakennusaika on varattu parin viikon päähän.</p>",
-            "image": "https://pahegrup.fi/media/posts/2/artsu01.jpg",
-            "author": {
-                "name": "Kuha-Eemeli"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-02-03T16:10:24+02:00",
-            "date_modified": "2025-02-05T14:14:49+02:00"
+            "date_published": "2025-03-06T08:29:18+02:00",
+            "date_modified": "2025-03-06T08:47:01+02:00"
         }
     ]
 }
