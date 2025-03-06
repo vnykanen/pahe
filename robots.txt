@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://vnykanen.github.io/pahe/sitemap.xml
+Sitemap: https://pahegrup.fi/sitemap.xml
