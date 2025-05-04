@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "https://pahegrup.fi/testipostaus/",
-            "url": "https://pahegrup.fi/testipostaus/",
-            "title": "Testipostaus!",
-            "summary": "Testataan julkaisua?",
-            "content_html": "<p>Testataan julkaisua?</p>",
-            "author": {
-                "name": "Kuha-Eemeli"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-04T19:38:36+03:00",
-            "date_modified": "2025-05-04T19:38:36+03:00"
-        },
-        {
             "id": "https://pahegrup.fi/pahe-grup-alkoi-tubettamaan/",
             "url": "https://pahegrup.fi/pahe-grup-alkoi-tubettamaan/",
             "title": "Pahe Grup alkoi tubettamaan",
