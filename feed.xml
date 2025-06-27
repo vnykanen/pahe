@@ -3,7 +3,7 @@
     <title>Pahe Grup</title>
     <link href="https://pahegrup.fi/feed.xml" rel="self" />
     <link href="https://pahegrup.fi" />
-    <updated>2025-06-27T18:42:41+03:00</updated>
+    <updated>2025-06-27T18:48:52+03:00</updated>
     <author>
         <name>Kuha-Eemeli</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://pahegrup.fi/pahe-grupin-youtube-kanavalla-jo-7-tilaajaa/"/>
         <id>https://pahegrup.fi/pahe-grupin-youtube-kanavalla-jo-7-tilaajaa/</id>
+        <media:content url="https://pahegrup.fi/media/posts/18/Screenshot-2025-06-27-at-18.47.14.png" medium="image" />
 
         <updated>2025-06-27T18:31:14+03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://pahegrup.fi/media/posts/18/Screenshot-2025-06-27-at-18.47.14.png" alt="" />
                     Pahe Grup aloi tubettamaan ja vain alle neljässä kuukaudessa olemme keränneet sitoutuneen katsojakunnan: seitsemän henkilöä on tilannut kanavan! Kiitämme kaikkia&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://pahegrup.fi/media/posts/18/Screenshot-2025-06-27-at-18.47.14.png" class="type:primaryImage" alt="" /></p>
                 <p>Pahe Grup aloi tubettamaan ja vain alle neljässä kuukaudessa olemme keränneet sitoutuneen katsojakunnan: seitsemän henkilöä on tilannut kanavan!</p>
 <p>Kiitämme kaikkia tilaajiamme, siitä että olette olleet matkassamme mm. kun aloitimme roskisleipomon,</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/xTDG9m-lDIo?t=2s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
